@@ -1,0 +1,596 @@
+2023/05/16-13:53:09.643 da9d Creating DB /home/rodrigo/Chatbot-Node-Sulla/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/05/16-13:53:09.649 da9d Reusing MANIFEST /home/rodrigo/Chatbot-Node-Sulla/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/16-13:53:10.296 da9d Level-0 table #5: started
+2023/05/16-13:53:10.300 da9d Level-0 table #5: 7441 bytes OK
+2023/05/16-13:53:10.303 da9d Delete type=0 #3
+2023/05/16-13:53:10.309 daa2 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-13:53:14.792 da9f Level-0 table #7: started
+2023/05/16-13:53:14.798 da9f Level-0 table #7: 21387 bytes OK
+2023/05/16-13:53:14.801 da9f Delete type=0 #4
+2023/05/16-13:53:14.801 daa4 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-13:59:35.707 ea2f Level-0 table #9: started
+2023/05/16-13:59:35.921 ea2f Level-0 table #9: 1161963 bytes OK
+2023/05/16-13:59:35.925 ea2f Delete type=0 #6
+2023/05/16-13:59:35.965 ea2f Compacting 1@0 + 1@1 files
+2023/05/16-13:59:36.250 ea2f Generated table #10@0: 26708 keys, 894423 bytes
+2023/05/16-13:59:36.250 ea2f Compacted 1@0 + 1@1 files => 894423 bytes
+2023/05/16-13:59:36.258 ea2f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/16-13:59:49.470 ea2f Level-0 table #12: started
+2023/05/16-13:59:49.649 ea2f Level-0 table #12: 1209646 bytes OK
+2023/05/16-13:59:49.654 ea2f Delete type=2 #7
+2023/05/16-13:59:49.654 ea2f Delete type=0 #8
+2023/05/16-13:59:49.654 ea2f Delete type=2 #9
+2023/05/16-13:59:50.284 ea2f Compacting 1@0 + 1@1 files
+2023/05/16-13:59:50.842 ea2f Generated table #13@0: 56097 keys, 1721381 bytes
+2023/05/16-13:59:50.842 ea2f Compacted 1@0 + 1@1 files => 1721381 bytes
+2023/05/16-13:59:50.845 ea2f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/16-13:59:50.846 ea2f Delete type=2 #12
+2023/05/16-13:59:56.835 ea2f Level-0 table #15: started
+2023/05/16-13:59:57.074 ea2f Level-0 table #15: 1025528 bytes OK
+2023/05/16-13:59:57.077 ea2f Delete type=0 #11
+2023/05/16-13:59:57.077 ea2f Delete type=2 #10
+2023/05/16-13:59:57.207 ea2f Compacting 1@0 + 1@1 files
+2023/05/16-13:59:57.712 ea2f Generated table #16@0: 80855 keys, 2256923 bytes
+2023/05/16-13:59:57.724 ea2f Generated table #17@0: 1048 keys, 19799 bytes
+2023/05/16-13:59:57.724 ea2f Compacted 1@0 + 1@1 files => 2276722 bytes
+2023/05/16-13:59:57.729 ea2f compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/05/16-14:00:08.913 da9d Level-0 table #19: started
+2023/05/16-14:00:09.163 da9d Level-0 table #19: 1035002 bytes OK
+2023/05/16-14:00:09.168 da9d Delete type=0 #14
+2023/05/16-14:00:09.168 da9d Delete type=2 #13
+2023/05/16-14:00:09.168 da9d Delete type=2 #15
+2023/05/16-14:00:09.184 da9d Compacting 1@0 + 2@1 files
+2023/05/16-14:00:09.687 da9d Generated table #20@0: 89109 keys, 2267075 bytes
+2023/05/16-14:00:09.894 da9d Generated table #21@0: 20861 keys, 646651 bytes
+2023/05/16-14:00:09.894 da9d Compacted 1@0 + 2@1 files => 2913726 bytes
+2023/05/16-14:00:09.898 da9d compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/05/16-14:00:11.623 ea32 Level-0 table #23: started
+2023/05/16-14:00:11.951 ea32 Level-0 table #23: 851879 bytes OK
+2023/05/16-14:00:11.955 ea32 Delete type=2 #19
+2023/05/16-14:00:11.955 ea32 Delete type=0 #18
+2023/05/16-14:00:11.955 ea32 Delete type=2 #17
+2023/05/16-14:00:11.955 ea32 Delete type=2 #16
+2023/05/16-14:00:12.078 ea32 Compacting 1@0 + 2@1 files
+2023/05/16-14:00:12.665 ea32 Generated table #24@0: 105108 keys, 2284488 bytes
+2023/05/16-14:00:12.955 ea32 Generated table #25@0: 28404 keys, 1073514 bytes
+2023/05/16-14:00:12.955 ea32 Compacted 1@0 + 2@1 files => 3358002 bytes
+2023/05/16-14:00:12.958 ea32 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/05/16-14:00:26.110 ea2f Level-0 table #27: started
+2023/05/16-14:00:26.317 ea2f Level-0 table #27: 1097288 bytes OK
+2023/05/16-14:00:26.333 ea2f Delete type=2 #20
+2023/05/16-14:00:26.333 ea2f Delete type=2 #21
+2023/05/16-14:00:26.333 ea2f Delete type=0 #22
+2023/05/16-14:00:26.333 ea2f Delete type=2 #23
+2023/05/16-14:00:26.351 ea2f Compacting 1@0 + 2@1 files
+2023/05/16-14:00:27.070 ea2f Generated table #28@0: 114445 keys, 2294540 bytes
+2023/05/16-14:00:27.341 ea2f Level-0 table #31: started
+2023/05/16-14:00:27.482 ea2f Level-0 table #31: 1309706 bytes OK
+2023/05/16-14:00:27.485 ea2f Delete type=0 #26
+2023/05/16-14:00:27.650 ea2f Generated table #29@0: 32626 keys, 1951208 bytes
+2023/05/16-14:00:27.650 ea2f Compacted 1@0 + 2@1 files => 4245748 bytes
+2023/05/16-14:00:27.658 ea2f compacted to: files[ 1 2 1 0 0 0 0 ]
+2023/05/16-14:00:27.659 ea2f Delete type=2 #25
+2023/05/16-14:00:27.659 ea2f Delete type=2 #24
+2023/05/16-14:00:27.659 ea2f Delete type=2 #27
+2023/05/16-14:00:27.682 ea2f Compacting 1@0 + 2@1 files
+2023/05/16-14:00:28.445 ea2f Generated table #32@0: 118911 keys, 2295946 bytes
+2023/05/16-14:00:28.651 ea2f Generated table #33@0: 10044 keys, 2193203 bytes
+2023/05/16-14:00:28.816 ea2f Generated table #34@0: 28147 keys, 1067170 bytes
+2023/05/16-14:00:28.817 ea2f Compacted 1@0 + 2@1 files => 5556319 bytes
+2023/05/16-14:00:28.822 ea2f compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/05/16-14:00:28.855 ea2f Level-0 table #36: started
+2023/05/16-14:00:28.999 ea2f Level-0 table #36: 1327336 bytes OK
+2023/05/16-14:00:29.004 ea2f Delete type=2 #31
+2023/05/16-14:00:29.004 ea2f Delete type=2 #29
+2023/05/16-14:00:29.005 ea2f Delete type=2 #28
+2023/05/16-14:00:29.005 ea2f Delete type=0 #30
+2023/05/16-14:00:29.018 ea2f Compacting 1@0 + 2@1 files
+2023/05/16-14:00:29.512 ea2f Generated table #37@0: 118471 keys, 2293577 bytes
+2023/05/16-14:00:29.769 ea2f Generated table #38@0: 9334 keys, 2166749 bytes
+2023/05/16-14:00:29.999 ea2f Generated table #39@0: 12145 keys, 1348727 bytes
+2023/05/16-14:00:29.999 ea2f Compacted 1@0 + 2@1 files => 5809053 bytes
+2023/05/16-14:00:30.008 ea2f compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/05/16-14:00:30.009 ea2f Delete type=2 #36
+2023/05/16-14:00:30.009 ea2f Delete type=2 #33
+2023/05/16-14:00:30.009 ea2f Delete type=2 #32
+2023/05/16-14:00:30.145 da9d Level-0 table #41: started
+2023/05/16-14:00:30.453 da9d Level-0 table #41: 1449320 bytes OK
+2023/05/16-14:00:30.469 da9d Delete type=0 #35
+2023/05/16-14:00:30.489 da9d Compacting 1@0 + 4@1 files
+2023/05/16-14:00:31.340 da9d Generated table #42@0: 132496 keys, 2311487 bytes
+2023/05/16-14:00:31.566 da9d Generated table #43@0: 2718 keys, 2158849 bytes
+2023/05/16-14:00:31.888 da9d Generated table #44@0: 21562 keys, 2230516 bytes
+2023/05/16-14:00:32.073 da9d Generated table #45@0: 23623 keys, 752313 bytes
+2023/05/16-14:00:32.073 da9d Compacted 1@0 + 4@1 files => 7453165 bytes
+2023/05/16-14:00:32.075 da9d compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/05/16-14:00:41.061 ea2f Level-0 table #47: started
+2023/05/16-14:00:41.290 ea2f Level-0 table #47: 880103 bytes OK
+2023/05/16-14:00:41.293 ea2f Delete type=2 #41
+2023/05/16-14:00:41.293 ea2f Delete type=0 #40
+2023/05/16-14:00:41.293 ea2f Delete type=2 #34
+2023/05/16-14:00:41.293 ea2f Delete type=2 #37
+2023/05/16-14:00:41.293 ea2f Delete type=2 #38
+2023/05/16-14:00:41.293 ea2f Delete type=2 #39
+2023/05/16-14:00:41.334 ea32 Compacting 1@0 + 4@1 files
+2023/05/16-14:00:42.093 ea32 Generated table #48@0: 151087 keys, 2333580 bytes
+2023/05/16-14:00:42.340 ea32 Generated table #49@0: 2598 keys, 2159816 bytes
+2023/05/16-14:00:42.929 ea32 Generated table #50@0: 18009 keys, 2226786 bytes
+2023/05/16-14:00:43.273 ea32 Generated table #51@0: 37843 keys, 1236028 bytes
+2023/05/16-14:00:43.273 ea32 Compacted 1@0 + 4@1 files => 7956210 bytes
+2023/05/16-14:00:43.276 ea32 compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/05/16-14:01:00.615 ea2f Compacting 1@1 + 1@2 files
+2023/05/16-14:01:00.822 ea2f Generated table #52@1: 31859 keys, 1362817 bytes
+2023/05/16-14:01:00.822 ea2f Compacted 1@1 + 1@2 files => 1362817 bytes
+2023/05/16-14:01:00.824 ea2f compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/05/16-14:01:00.825 ea2f Delete type=2 #43
+2023/05/16-14:01:00.826 ea2f Delete type=2 #47
+2023/05/16-14:01:00.826 ea2f Delete type=2 #45
+2023/05/16-14:01:00.826 ea2f Delete type=2 #42
+2023/05/16-14:01:00.826 ea2f Delete type=2 #5
+2023/05/16-14:01:00.826 ea2f Delete type=2 #48
+2023/05/16-14:01:00.826 ea2f Delete type=2 #44
+2023/05/16-14:01:09.194 da9d Level-0 table #54: started
+2023/05/16-14:01:09.356 da9d Level-0 table #54: 1044023 bytes OK
+2023/05/16-14:01:09.360 da9d Delete type=0 #46
+2023/05/16-14:01:09.500 da9d Compacting 1@0 + 3@1 files
+2023/05/16-14:01:09.739 da9d Generated table #55@0: 24102 keys, 2185641 bytes
+2023/05/16-14:01:10.020 da9d Generated table #56@0: 15411 keys, 2212710 bytes
+2023/05/16-14:01:10.334 da9d Generated table #57@0: 49287 keys, 1828449 bytes
+2023/05/16-14:01:10.334 da9d Compacted 1@0 + 3@1 files => 6226800 bytes
+2023/05/16-14:01:10.337 da9d compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/05/16-14:01:10.678 ea32 Compacting 1@1 + 1@2 files
+2023/05/16-14:01:10.996 ea32 Generated table #58@1: 34000 keys, 2203213 bytes
+2023/05/16-14:01:11.286 ea32 Generated table #59@1: 1436 keys, 1080121 bytes
+2023/05/16-14:01:11.286 ea32 Compacted 1@1 + 1@2 files => 3283334 bytes
+2023/05/16-14:01:11.288 ea32 compacted to: files[ 0 2 2 0 0 0 0 ]
+2023/05/16-14:01:11.289 ea32 Delete type=2 #54
+2023/05/16-14:01:11.289 ea32 Delete type=2 #51
+2023/05/16-14:01:11.289 ea32 Delete type=2 #49
+2023/05/16-14:01:11.289 ea32 Delete type=2 #50
+2023/05/16-14:01:16.674 ea2f Level-0 table #61: started
+2023/05/16-14:01:16.918 ea2f Level-0 table #61: 1097874 bytes OK
+2023/05/16-14:01:16.928 ea2f Delete type=2 #55
+2023/05/16-14:01:16.928 ea2f Delete type=2 #52
+2023/05/16-14:01:16.928 ea2f Delete type=0 #53
+2023/05/16-14:01:16.950 ea2f Compacting 1@0 + 2@1 files
+2023/05/16-14:01:17.586 ea2f Generated table #62@0: 24577 keys, 2199885 bytes
+2023/05/16-14:01:17.765 ea2f Level-0 table #65: started
+2023/05/16-14:01:17.944 ea2f Level-0 table #65: 1230731 bytes OK
+2023/05/16-14:01:17.949 ea2f Delete type=0 #60
+2023/05/16-14:01:18.260 ea2f Generated table #63@0: 39804 keys, 2243214 bytes
+2023/05/16-14:01:18.410 ea2f Generated table #66@0: 20020 keys, 443197 bytes
+2023/05/16-14:01:18.410 ea2f Compacted 1@0 + 2@1 files => 4886296 bytes
+2023/05/16-14:01:18.412 ea2f compacted to: files[ 1 3 2 0 0 0 0 ]
+2023/05/16-14:01:18.413 ea2f Delete type=2 #57
+2023/05/16-14:01:18.413 ea2f Delete type=2 #56
+2023/05/16-14:01:18.413 ea2f Delete type=2 #61
+2023/05/16-14:01:18.435 ea2f Compacting 1@0 + 3@1 files
+2023/05/16-14:01:18.564 ea2f Level-0 table #69: started
+2023/05/16-14:01:18.707 ea2f Level-0 table #69: 1162314 bytes OK
+2023/05/16-14:01:18.711 ea2f Delete type=0 #64
+2023/05/16-14:01:18.876 ea2f Generated table #67@0: 23674 keys, 2186064 bytes
+2023/05/16-14:01:19.145 ea2f Generated table #70@0: 22703 keys, 2247345 bytes
+2023/05/16-14:01:19.322 ea2f Level-0 table #73: started
+2023/05/16-14:01:19.507 ea2f Level-0 table #73: 1255694 bytes OK
+2023/05/16-14:01:19.513 ea2f Delete type=0 #68
+2023/05/16-14:01:19.539 ea2f Generated table #71@0: 48460 keys, 1662577 bytes
+2023/05/16-14:01:19.540 ea2f Compacted 1@0 + 3@1 files => 6095986 bytes
+2023/05/16-14:01:19.542 ea2f compacted to: files[ 2 3 2 0 0 0 0 ]
+2023/05/16-14:01:19.549 ea2f Compacting 2@0 + 3@1 files
+2023/05/16-14:01:19.862 ea2f Generated table #74@0: 34444 keys, 2197608 bytes
+2023/05/16-14:01:20.176 ea2f Generated table #75@0: 13014 keys, 2190099 bytes
+2023/05/16-14:01:20.480 ea2f Generated table #76@0: 32125 keys, 2265792 bytes
+2023/05/16-14:01:20.761 ea2f Generated table #77@0: 35128 keys, 1059082 bytes
+2023/05/16-14:01:20.761 ea2f Compacted 2@0 + 3@1 files => 7712581 bytes
+2023/05/16-14:01:20.766 ea2f compacted to: files[ 0 4 2 0 0 0 0 ]
+2023/05/16-14:01:20.767 ea2f Delete type=2 #63
+2023/05/16-14:01:20.767 ea2f Delete type=2 #66
+2023/05/16-14:01:20.767 ea2f Delete type=2 #62
+2023/05/16-14:01:20.767 ea2f Delete type=2 #65
+2023/05/16-14:01:21.417 da9d Compacting 1@1 + 2@2 files
+2023/05/16-14:01:22.046 da9d Generated table #78@1: 36653 keys, 2200374 bytes
+2023/05/16-14:01:22.209 da9d Generated table #79@1: 2864 keys, 2159870 bytes
+2023/05/16-14:01:22.263 da9d Generated table #80@1: 924 keys, 827098 bytes
+2023/05/16-14:01:22.263 da9d Compacted 1@1 + 2@2 files => 5187342 bytes
+2023/05/16-14:01:22.268 da9d compacted to: files[ 0 3 3 0 0 0 0 ]
+2023/05/16-14:01:22.269 da9d Delete type=2 #70
+2023/05/16-14:01:22.269 da9d Delete type=2 #71
+2023/05/16-14:01:22.269 da9d Delete type=2 #67
+2023/05/16-14:01:22.269 da9d Delete type=2 #69
+2023/05/16-14:01:22.269 da9d Delete type=2 #73
+2023/05/16-14:01:35.992 ea2f Level-0 table #82: started
+2023/05/16-14:01:36.175 ea2f Level-0 table #82: 906013 bytes OK
+2023/05/16-14:01:36.183 ea2f Delete type=0 #72
+2023/05/16-14:01:36.183 ea2f Delete type=2 #74
+2023/05/16-14:01:36.183 ea2f Delete type=2 #58
+2023/05/16-14:01:36.183 ea2f Delete type=2 #59
+2023/05/16-14:01:36.316 ea32 Compacting 1@0 + 3@1 files
+2023/05/16-14:01:36.632 ea32 Generated table #83@0: 30200 keys, 2206446 bytes
+2023/05/16-14:01:37.053 ea32 Generated table #84@0: 31445 keys, 2265065 bytes
+2023/05/16-14:01:37.495 ea32 Generated table #85@0: 47104 keys, 1529431 bytes
+2023/05/16-14:01:37.495 ea32 Compacted 1@0 + 3@1 files => 6000942 bytes
+2023/05/16-14:01:37.504 ea32 compacted to: files[ 0 3 3 0 0 0 0 ]
+2023/05/16-14:01:37.720 ea2f Compacting 1@1 + 3@2 files
+2023/05/16-14:01:38.003 ea2f Generated table #86@1: 36434 keys, 2200363 bytes
+2023/05/16-14:01:38.157 ea2f Generated table #87@1: 2863 keys, 2160041 bytes
+2023/05/16-14:01:38.395 ea2f Generated table #88@1: 3187 keys, 2161252 bytes
+2023/05/16-14:01:38.566 ea2f Generated table #89@1: 8979 keys, 695685 bytes
+2023/05/16-14:01:38.566 ea2f Compacted 1@1 + 3@2 files => 7217341 bytes
+2023/05/16-14:01:38.569 ea2f compacted to: files[ 0 2 4 0 0 0 0 ]
+2023/05/16-14:01:44.696 ea33 Level-0 table #91: started
+2023/05/16-14:01:44.955 ea33 Level-0 table #91: 1034389 bytes OK
+2023/05/16-14:01:44.981 ea33 Delete type=2 #80
+2023/05/16-14:01:44.981 ea33 Delete type=2 #75
+2023/05/16-14:01:44.981 ea33 Delete type=2 #82
+2023/05/16-14:01:44.981 ea33 Delete type=2 #78
+2023/05/16-14:01:44.982 ea33 Delete type=2 #83
+2023/05/16-14:01:44.982 ea33 Delete type=2 #76
+2023/05/16-14:01:44.982 ea33 Delete type=0 #81
+2023/05/16-14:01:44.982 ea33 Delete type=2 #79
+2023/05/16-14:01:44.982 ea33 Delete type=2 #77
+2023/05/16-14:01:44.996 ea33 Compacting 1@0 + 2@1 files
+2023/05/16-14:01:45.468 ea33 Generated table #92@0: 42466 keys, 2278326 bytes
+2023/05/16-14:01:45.726 ea33 Generated table #93@0: 65351 keys, 2193875 bytes
+2023/05/16-14:01:45.726 ea33 Compacted 1@0 + 2@1 files => 4472201 bytes
+2023/05/16-14:01:45.728 ea33 compacted to: files[ 0 2 4 0 0 0 0 ]
+2023/05/16-14:01:45.729 ea33 Delete type=2 #84
+2023/05/16-14:01:45.729 ea33 Delete type=2 #91
+2023/05/16-14:01:45.729 ea33 Delete type=2 #85
+2023/05/16-14:01:53.059 ea2f Compacting 1@1 + 4@2 files
+2023/05/16-14:01:53.290 ea2f Generated table #94@1: 42653 keys, 2206077 bytes
+2023/05/16-14:01:53.415 ea2f Generated table #95@1: 2666 keys, 2159044 bytes
+2023/05/16-14:01:53.588 ea2f Generated table #96@1: 3242 keys, 2160766 bytes
+2023/05/16-14:01:53.928 ea2f Generated table #97@1: 23763 keys, 2249029 bytes
+2023/05/16-14:01:54.063 ea2f Generated table #98@1: 6180 keys, 532989 bytes
+2023/05/16-14:01:54.063 ea2f Compacted 1@1 + 4@2 files => 9307905 bytes
+2023/05/16-14:01:54.071 ea2f compacted to: files[ 0 1 5 0 0 0 0 ]
+2023/05/16-14:01:54.080 ea2f Level-0 table #100: started
+2023/05/16-14:01:54.305 ea2f Level-0 table #100: 1228062 bytes OK
+2023/05/16-14:01:54.312 ea2f Delete type=2 #86
+2023/05/16-14:01:54.312 ea2f Delete type=0 #90
+2023/05/16-14:01:54.312 ea2f Delete type=2 #88
+2023/05/16-14:01:54.312 ea2f Delete type=2 #87
+2023/05/16-14:01:54.312 ea2f Delete type=2 #92
+2023/05/16-14:01:54.312 ea2f Delete type=2 #89
+2023/05/16-14:01:54.333 ea2f Compacting 1@0 + 1@1 files
+2023/05/16-14:01:54.601 ea2f Generated table #101@0: 41225 keys, 2216078 bytes
+2023/05/16-14:01:54.831 ea2f Generated table #102@0: 47547 keys, 1061906 bytes
+2023/05/16-14:01:54.831 ea2f Compacted 1@0 + 1@1 files => 3277984 bytes
+2023/05/16-14:01:54.834 ea2f compacted to: files[ 0 2 5 0 0 0 0 ]
+2023/05/16-14:01:54.847 ea2f Compacting 1@1 + 5@2 files
+2023/05/16-14:01:55.111 ea2f Level-0 table #105: started
+2023/05/16-14:01:55.263 ea2f Level-0 table #105: 1243890 bytes OK
+2023/05/16-14:01:55.282 ea2f Delete type=2 #100
+2023/05/16-14:01:55.282 ea2f Delete type=2 #93
+2023/05/16-14:01:55.282 ea2f Delete type=0 #99
+2023/05/16-14:01:55.346 ea2f Generated table #103@1: 42207 keys, 2206654 bytes
+2023/05/16-14:01:55.650 ea2f Generated table #106@1: 2740 keys, 2160384 bytes
+2023/05/16-14:01:55.871 ea2f Generated table #107@1: 2828 keys, 2155883 bytes
+2023/05/16-14:01:56.092 ea2f Generated table #108@1: 19068 keys, 2223375 bytes
+2023/05/16-14:01:56.459 ea2f Generated table #109@1: 33001 keys, 2248931 bytes
+2023/05/16-14:01:56.494 ea2f Generated table #110@1: 5164 keys, 308599 bytes
+2023/05/16-14:01:56.494 ea2f Compacted 1@1 + 5@2 files => 11303826 bytes
+2023/05/16-14:01:56.505 ea2f compacted to: files[ 1 1 6 0 0 0 0 ]
+2023/05/16-14:01:56.514 ea32 Compacting 1@0 + 1@1 files
+2023/05/16-14:01:57.084 ea32 Generated table #111@0: 56237 keys, 2227277 bytes
+2023/05/16-14:01:57.102 ea32 Generated table #112@0: 2989 keys, 66957 bytes
+2023/05/16-14:01:57.103 ea32 Compacted 1@0 + 1@1 files => 2294234 bytes
+2023/05/16-14:01:57.106 ea32 compacted to: files[ 0 2 6 0 0 0 0 ]
+2023/05/16-14:01:57.113 ea32 Delete type=2 #94
+2023/05/16-14:01:57.113 ea32 Delete type=2 #97
+2023/05/16-14:01:57.113 ea32 Delete type=2 #95
+2023/05/16-14:01:57.113 ea32 Delete type=2 #96
+2023/05/16-14:01:57.113 ea32 Delete type=2 #98
+2023/05/16-14:01:57.113 ea32 Delete type=2 #101
+2023/05/16-14:01:57.181 da9d Compacting 1@1 + 6@2 files
+2023/05/16-14:01:57.667 da9d Generated table #113@1: 48446 keys, 2220295 bytes
+2023/05/16-14:01:58.110 da9d Generated table #114@1: 2620 keys, 2153865 bytes
+2023/05/16-14:01:58.405 da9d Generated table #115@1: 2624 keys, 2158254 bytes
+2023/05/16-14:01:58.796 da9d Generated table #116@1: 10396 keys, 2178643 bytes
+2023/05/16-14:01:59.039 da9d Generated table #117@1: 25948 keys, 2274770 bytes
+2023/05/16-14:01:59.252 da9d Generated table #118@1: 57996 keys, 2227275 bytes
+2023/05/16-14:01:59.290 da9d Generated table #119@1: 13198 keys, 295458 bytes
+2023/05/16-14:01:59.290 da9d Compacted 1@1 + 6@2 files => 13508560 bytes
+2023/05/16-14:01:59.294 da9d compacted to: files[ 0 1 7 0 0 0 0 ]
+2023/05/16-14:01:59.295 da9d Delete type=2 #105
+2023/05/16-14:01:59.295 da9d Delete type=2 #109
+2023/05/16-14:01:59.295 da9d Delete type=2 #108
+2023/05/16-14:01:59.295 da9d Delete type=2 #110
+2023/05/16-14:01:59.295 da9d Delete type=2 #111
+2023/05/16-14:01:59.295 da9d Delete type=2 #103
+2023/05/16-14:01:59.295 da9d Delete type=2 #102
+2023/05/16-14:01:59.295 da9d Delete type=2 #106
+2023/05/16-14:01:59.295 da9d Delete type=2 #107
+2023/05/16-14:02:02.005 ea2f Level-0 table #121: started
+2023/05/16-14:02:02.268 ea2f Level-0 table #121: 903853 bytes OK
+2023/05/16-14:02:02.271 ea2f Delete type=0 #104
+2023/05/16-14:02:02.570 ea32 Compacting 1@0 + 1@1 files
+2023/05/16-14:02:02.767 ea32 Generated table #122@0: 41747 keys, 635811 bytes
+2023/05/16-14:02:02.767 ea32 Compacted 1@0 + 1@1 files => 635811 bytes
+2023/05/16-14:02:02.771 ea32 compacted to: files[ 0 1 7 0 0 0 0 ]
+2023/05/16-14:02:02.772 ea32 Delete type=2 #112
+2023/05/16-14:02:02.772 ea32 Delete type=2 #121
+2023/05/16-14:02:02.865 ea32 Compacting 1@1 + 7@2 files
+2023/05/16-14:02:03.679 ea32 Generated table #123@1: 40104 keys, 2204462 bytes
+2023/05/16-14:02:03.894 ea32 Generated table #124@1: 2820 keys, 2161294 bytes
+2023/05/16-14:02:04.076 ea32 Generated table #125@1: 2479 keys, 2153947 bytes
+2023/05/16-14:02:04.233 ea32 Generated table #126@1: 15018 keys, 2198524 bytes
+2023/05/16-14:02:04.488 ea32 Generated table #127@1: 25274 keys, 2268324 bytes
+2023/05/16-14:02:04.706 ea32 Generated table #128@1: 66524 keys, 2231560 bytes
+2023/05/16-14:02:04.750 ea32 Generated table #129@1: 16164 keys, 356819 bytes
+2023/05/16-14:02:04.750 ea32 Compacted 1@1 + 7@2 files => 13574930 bytes
+2023/05/16-14:02:04.756 ea32 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/05/16-14:02:04.757 ea32 Delete type=2 #119
+2023/05/16-14:02:04.757 ea32 Delete type=2 #118
+2023/05/16-14:02:04.757 ea32 Delete type=2 #113
+2023/05/16-14:02:04.757 ea32 Delete type=2 #116
+2023/05/16-14:02:04.757 ea32 Delete type=2 #117
+2023/05/16-14:02:04.757 ea32 Delete type=2 #114
+2023/05/16-14:02:04.757 ea32 Delete type=2 #115
+2023/05/16-14:02:04.757 ea32 Delete type=2 #122
+2023/05/16-14:02:09.851 ea2f Level-0 table #131: started
+2023/05/16-14:02:10.069 ea2f Level-0 table #131: 991390 bytes OK
+2023/05/16-14:02:10.075 ea2f Delete type=0 #120
+2023/05/16-14:02:10.107 ea2f Compacting 1@1 + 7@2 files
+2023/05/16-14:02:10.721 ea2f Generated table #132@1: 54371 keys, 2242667 bytes
+2023/05/16-14:02:10.902 ea2f Generated table #133@1: 2752 keys, 2158400 bytes
+2023/05/16-14:02:11.086 ea2f Generated table #134@1: 2534 keys, 2155714 bytes
+2023/05/16-14:02:11.415 ea2f Generated table #135@1: 12996 keys, 2187040 bytes
+2023/05/16-14:02:11.996 ea2f Generated table #136@1: 25327 keys, 2275524 bytes
+2023/05/16-14:02:12.376 ea2f Generated table #137@1: 53531 keys, 2217659 bytes
+2023/05/16-14:02:12.623 ea2f Generated table #138@1: 48477 keys, 1041851 bytes
+2023/05/16-14:02:12.623 ea2f Compacted 1@1 + 7@2 files => 14278855 bytes
+2023/05/16-14:02:12.627 ea2f compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/05/16-14:02:19.649 ea2f Level-0 table #140: started
+2023/05/16-14:02:19.793 ea2f Level-0 table #140: 987839 bytes OK
+2023/05/16-14:02:19.797 ea2f Delete type=2 #125
+2023/05/16-14:02:19.797 ea2f Delete type=2 #126
+2023/05/16-14:02:19.797 ea2f Delete type=2 #129
+2023/05/16-14:02:19.797 ea2f Delete type=2 #124
+2023/05/16-14:02:19.798 ea2f Delete type=2 #127
+2023/05/16-14:02:19.798 ea2f Delete type=2 #131
+2023/05/16-14:02:19.798 ea2f Delete type=2 #128
+2023/05/16-14:02:19.798 ea2f Delete type=2 #123
+2023/05/16-14:02:19.798 ea2f Delete type=0 #130
+2023/05/16-14:02:19.815 ea2f Compacting 1@1 + 7@2 files
+2023/05/16-14:02:20.258 ea2f Generated table #141@1: 43807 keys, 2217096 bytes
+2023/05/16-14:02:20.438 ea2f Generated table #142@1: 2773 keys, 2158032 bytes
+2023/05/16-14:02:20.744 ea2f Generated table #143@1: 2524 keys, 2154695 bytes
+2023/05/16-14:02:21.026 ea2f Generated table #144@1: 13312 keys, 2187942 bytes
+2023/05/16-14:02:21.320 ea2f Generated table #145@1: 25246 keys, 2275565 bytes
+2023/05/16-14:02:21.611 ea2f Generated table #146@1: 50882 keys, 2212375 bytes
+2023/05/16-14:02:21.827 ea2f Generated table #147@1: 56460 keys, 1216660 bytes
+2023/05/16-14:02:21.827 ea2f Compacted 1@1 + 7@2 files => 14422365 bytes
+2023/05/16-14:02:21.830 ea2f compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/05/16-14:02:21.831 ea2f Delete type=2 #135
+2023/05/16-14:02:21.831 ea2f Delete type=2 #140
+2023/05/16-14:02:21.831 ea2f Delete type=2 #136
+2023/05/16-14:02:21.831 ea2f Delete type=2 #134
+2023/05/16-14:02:21.831 ea2f Delete type=2 #138
+2023/05/16-14:02:21.831 ea2f Delete type=2 #132
+2023/05/16-14:02:21.831 ea2f Delete type=2 #137
+2023/05/16-14:02:21.831 ea2f Delete type=2 #133
+2023/05/16-14:02:45.217 ea2f Level-0 table #149: started
+2023/05/16-14:02:45.397 ea2f Level-0 table #149: 1062655 bytes OK
+2023/05/16-14:02:45.404 ea2f Delete type=0 #139
+2023/05/16-14:02:45.450 ea32 Compacting 1@1 + 7@2 files
+2023/05/16-14:02:45.752 ea32 Generated table #150@1: 48285 keys, 2217144 bytes
+2023/05/16-14:02:46.000 ea32 Generated table #151@1: 2635 keys, 2155060 bytes
+2023/05/16-14:02:46.156 ea32 Generated table #152@1: 2614 keys, 2157572 bytes
+2023/05/16-14:02:46.327 ea32 Generated table #153@1: 10409 keys, 2178727 bytes
+2023/05/16-14:02:46.653 ea32 Generated table #154@1: 25963 keys, 2275513 bytes
+2023/05/16-14:02:46.844 ea32 Generated table #155@1: 39303 keys, 2209647 bytes
+2023/05/16-14:02:47.097 ea32 Generated table #156@1: 76292 keys, 1659060 bytes
+2023/05/16-14:02:47.097 ea32 Compacted 1@1 + 7@2 files => 14852723 bytes
+2023/05/16-14:02:47.101 ea32 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/05/16-14:02:47.102 ea32 Delete type=2 #149
+2023/05/16-14:02:47.102 ea32 Delete type=2 #147
+2023/05/16-14:02:47.102 ea32 Delete type=2 #143
+2023/05/16-14:02:47.102 ea32 Delete type=2 #144
+2023/05/16-14:02:47.102 ea32 Delete type=2 #142
+2023/05/16-14:02:47.102 ea32 Delete type=2 #145
+2023/05/16-14:02:47.102 ea32 Delete type=2 #141
+2023/05/16-14:02:47.102 ea32 Delete type=2 #146
+2023/05/16-14:03:09.288 ea2f Level-0 table #158: started
+2023/05/16-14:03:09.451 ea2f Level-0 table #158: 1003286 bytes OK
+2023/05/16-14:03:09.456 ea2f Delete type=0 #148
+2023/05/16-14:03:09.812 ea2f Compacting 1@1 + 7@2 files
+2023/05/16-14:03:10.130 ea2f Generated table #159@1: 47148 keys, 2216749 bytes
+2023/05/16-14:03:10.286 ea2f Generated table #160@1: 2662 keys, 2155401 bytes
+2023/05/16-14:03:10.441 ea2f Generated table #161@1: 2572 keys, 2162129 bytes
+2023/05/16-14:03:10.619 ea2f Generated table #162@1: 11237 keys, 2179936 bytes
+2023/05/16-14:03:10.921 ea2f Generated table #163@1: 25665 keys, 2276648 bytes
+2023/05/16-14:03:11.335 ea2f Generated table #164@1: 35593 keys, 2201628 bytes
+2023/05/16-14:03:11.943 ea2f Generated table #165@1: 88563 keys, 1937943 bytes
+2023/05/16-14:03:11.943 ea2f Compacted 1@1 + 7@2 files => 15130434 bytes
+2023/05/16-14:03:11.949 ea2f compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/05/16-14:03:11.951 ea2f Delete type=2 #155
+2023/05/16-14:03:11.951 ea2f Delete type=2 #150
+2023/05/16-14:03:11.951 ea2f Delete type=2 #151
+2023/05/16-14:03:11.951 ea2f Delete type=2 #158
+2023/05/16-14:03:11.951 ea2f Delete type=2 #156
+2023/05/16-14:03:11.951 ea2f Delete type=2 #154
+2023/05/16-14:03:11.951 ea2f Delete type=2 #152
+2023/05/16-14:03:11.951 ea2f Delete type=2 #153
+2023/05/16-14:03:31.671 ea32 Level-0 table #167: started
+2023/05/16-14:03:31.951 ea32 Level-0 table #167: 1061036 bytes OK
+2023/05/16-14:03:31.958 ea32 Delete type=0 #157
+2023/05/16-14:03:31.990 ea2f Compacting 1@1 + 7@2 files
+2023/05/16-14:03:32.589 ea2f Generated table #168@1: 47218 keys, 2215247 bytes
+2023/05/16-14:03:32.785 ea2f Generated table #169@1: 2661 keys, 2154628 bytes
+2023/05/16-14:03:32.984 ea2f Generated table #170@1: 2576 keys, 2165897 bytes
+2023/05/16-14:03:33.241 ea2f Generated table #171@1: 11237 keys, 2179936 bytes
+2023/05/16-14:03:34.392 ea2f Generated table #172@1: 25665 keys, 2276648 bytes
+2023/05/16-14:03:35.146 ea2f Generated table #173@1: 28795 keys, 2191728 bytes
+2023/05/16-14:03:36.328 ea2f Generated table #174@1: 102849 keys, 2253726 bytes
+2023/05/16-14:03:36.575 ea2f Generated table #175@1: 10444 keys, 228799 bytes
+2023/05/16-14:03:36.575 ea2f Compacted 1@1 + 7@2 files => 15666609 bytes
+2023/05/16-14:03:36.579 ea2f compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/05/16-14:03:43.829 da9d Level-0 table #177: started
+2023/05/16-14:03:43.955 da9d Level-0 table #177: 667960 bytes OK
+2023/05/16-14:03:43.962 da9d Delete type=2 #165
+2023/05/16-14:03:43.962 da9d Delete type=2 #163
+2023/05/16-14:03:43.962 da9d Delete type=2 #164
+2023/05/16-14:03:43.962 da9d Delete type=2 #161
+2023/05/16-14:03:43.963 da9d Delete type=2 #159
+2023/05/16-14:03:43.963 da9d Delete type=2 #167
+2023/05/16-14:03:43.963 da9d Delete type=2 #162
+2023/05/16-14:03:43.963 da9d Delete type=2 #160
+2023/05/16-14:03:43.963 da9d Delete type=0 #166
+2023/05/16-14:03:44.008 ea32 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:44.009 ea32 Manual compaction at level-1 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x02\x1f\x03\x00 D3X\x82xB\x00\x01,\x00r\x00t\x00n\x00Q\x00L\x00K\x00D\x00t\x008\x00+\x00z\x00w\x00E\x00A\x00g\x00F\x00G\x00j\x00T\x00E\x00S\x00V\x00R\x005\x00V\x00w\x00U\x00W\x00T\x00K\x001\x00S\x002\x001\x00c\x00s\x00P\x00t\x008\x00P\x00C\x00x\x000\x00=' @ 1011526 : 0
+2023/05/16-14:03:44.009 ea32 Compacting 1@1 + 8@2 files
+2023/05/16-14:03:44.315 ea32 Generated table #178@1: 43195 keys, 2215024 bytes
+2023/05/16-14:03:44.567 ea32 Generated table #179@1: 2791 keys, 2159058 bytes
+2023/05/16-14:03:44.862 ea32 Generated table #180@1: 2516 keys, 2154878 bytes
+2023/05/16-14:03:45.399 ea32 Generated table #181@1: 13592 keys, 2190330 bytes
+2023/05/16-14:03:46.430 ea32 Generated table #182@1: 25148 keys, 2279698 bytes
+2023/05/16-14:03:46.784 ea32 Generated table #183@1: 31604 keys, 2186985 bytes
+2023/05/16-14:03:47.501 ea32 Generated table #184@1: 102985 keys, 2253608 bytes
+2023/05/16-14:03:47.579 ea32 Generated table #185@1: 14314 keys, 312167 bytes
+2023/05/16-14:03:47.579 ea32 Compacted 1@1 + 8@2 files => 15751748 bytes
+2023/05/16-14:03:47.581 ea32 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/05/16-14:03:47.596 da9d Manual compaction at level-1 from '\x00\x0c\x02\x1f\x03\x00 D3X\x82xB\x00\x01,\x00r\x00t\x00n\x00Q\x00L\x00K\x00D\x00t\x008\x00+\x00z\x00w\x00E\x00A\x00g\x00F\x00G\x00j\x00T\x00E\x00S\x00V\x00R\x005\x00V\x00w\x00U\x00W\x00T\x00K\x001\x00S\x002\x001\x00c\x00s\x00P\x00t\x008\x00P\x00C\x00x\x000\x00=' @ 1011526 : 0 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:47.606 ea32 Level-0 table #187: started
+2023/05/16-14:03:47.766 ea32 Level-0 table #187: 596323 bytes OK
+2023/05/16-14:03:47.773 ea32 Delete type=0 #176
+2023/05/16-14:03:47.774 ea32 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:47.774 ea32 Manual compaction at level-1 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 1038317 : 1
+2023/05/16-14:03:47.774 ea32 Compacting 1@1 + 8@2 files
+2023/05/16-14:03:48.548 ea32 Generated table #188@1: 43525 keys, 2231926 bytes
+2023/05/16-14:03:48.799 ea32 Generated table #189@1: 2753 keys, 2159574 bytes
+2023/05/16-14:03:49.071 ea32 Generated table #190@1: 2534 keys, 2155714 bytes
+2023/05/16-14:03:49.303 ea32 Generated table #191@1: 12997 keys, 2186993 bytes
+2023/05/16-14:03:50.734 ea32 Generated table #192@1: 25333 keys, 2275907 bytes
+2023/05/16-14:03:50.943 ea32 Generated table #193@1: 29607 keys, 2185881 bytes
+2023/05/16-14:03:51.280 ea32 Generated table #194@1: 103099 keys, 2254987 bytes
+2023/05/16-14:03:51.330 ea32 Generated table #195@1: 16762 keys, 364854 bytes
+2023/05/16-14:03:51.330 ea32 Compacted 1@1 + 8@2 files => 15815836 bytes
+2023/05/16-14:03:51.334 ea32 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/05/16-14:03:51.335 ea32 Delete type=2 #171
+2023/05/16-14:03:51.335 ea32 Delete type=2 #174
+2023/05/16-14:03:51.335 ea32 Delete type=2 #177
+2023/05/16-14:03:51.335 ea32 Delete type=2 #169
+2023/05/16-14:03:51.335 ea32 Delete type=2 #170
+2023/05/16-14:03:51.335 ea32 Delete type=2 #168
+2023/05/16-14:03:51.336 ea32 Delete type=2 #173
+2023/05/16-14:03:51.336 ea32 Delete type=2 #175
+2023/05/16-14:03:51.336 ea32 Delete type=2 #172
+2023/05/16-14:03:51.336 ea32 Delete type=2 #187
+2023/05/16-14:03:51.344 da9d Manual compaction at level-1 from '\x00\x0e\x00\x00\x05' @ 1038317 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:51.401 da9d Level-0 table #197: started
+2023/05/16-14:03:51.482 da9d Level-0 table #197: 90308 bytes OK
+2023/05/16-14:03:51.486 da9d Delete type=2 #184
+2023/05/16-14:03:51.486 da9d Delete type=2 #183
+2023/05/16-14:03:51.486 da9d Delete type=2 #179
+2023/05/16-14:03:51.486 da9d Delete type=2 #185
+2023/05/16-14:03:51.486 da9d Delete type=2 #178
+2023/05/16-14:03:51.486 da9d Delete type=2 #182
+2023/05/16-14:03:51.486 da9d Delete type=2 #181
+2023/05/16-14:03:51.486 da9d Delete type=0 #186
+2023/05/16-14:03:51.486 da9d Delete type=2 #180
+2023/05/16-14:03:51.495 da9d Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:51.495 da9d Manual compaction at level-1 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 1038520 : 1
+2023/05/16-14:03:51.495 da9d Compacting 1@1 + 8@2 files
+2023/05/16-14:03:51.746 da9d Generated table #198@1: 32815 keys, 2198505 bytes
+2023/05/16-14:03:51.908 da9d Generated table #199@1: 2723 keys, 2161426 bytes
+2023/05/16-14:03:52.073 da9d Generated table #200@1: 2857 keys, 2157439 bytes
+2023/05/16-14:03:52.288 da9d Generated table #201@1: 17006 keys, 2208217 bytes
+2023/05/16-14:03:52.570 da9d Generated table #202@1: 27342 keys, 2259857 bytes
+2023/05/16-14:03:52.757 da9d Generated table #203@1: 42685 keys, 2195915 bytes
+2023/05/16-14:03:53.071 da9d Generated table #204@1: 99987 keys, 2182817 bytes
+2023/05/16-14:03:53.071 da9d Compacted 1@1 + 8@2 files => 15364176 bytes
+2023/05/16-14:03:53.073 da9d compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/05/16-14:03:53.075 da9d Delete type=2 #197
+2023/05/16-14:03:53.075 da9d Manual compaction at level-1 from '\x00\x0f\x00\x00\x05' @ 1038520 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:53.393 da9d Level-0 table #206: started
+2023/05/16-14:03:53.523 da9d Level-0 table #206: 1097430 bytes OK
+2023/05/16-14:03:53.527 da9d Delete type=2 #189
+2023/05/16-14:03:53.527 da9d Delete type=0 #196
+2023/05/16-14:03:53.527 da9d Delete type=2 #193
+2023/05/16-14:03:53.527 da9d Delete type=2 #194
+2023/05/16-14:03:53.527 da9d Delete type=2 #192
+2023/05/16-14:03:53.528 da9d Delete type=2 #188
+2023/05/16-14:03:53.528 da9d Delete type=2 #195
+2023/05/16-14:03:53.528 da9d Delete type=2 #191
+2023/05/16-14:03:53.528 da9d Delete type=2 #190
+2023/05/16-14:03:53.605 da9d Level-0 table #208: started
+2023/05/16-14:03:53.796 da9d Level-0 table #208: 1343077 bytes OK
+2023/05/16-14:03:53.803 da9d Delete type=0 #205
+2023/05/16-14:03:53.840 da9d Level-0 table #210: started
+2023/05/16-14:03:54.017 da9d Level-0 table #210: 1384536 bytes OK
+2023/05/16-14:03:54.026 da9d Delete type=0 #207
+2023/05/16-14:03:54.028 da9d Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:54.028 da9d Manual compaction at level-1 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x08(\x01\x1d\x005\x005\x003\x001\x008\x006\x004\x004\x008\x009\x003\x003\x00@\x00c\x00.\x00u\x00s\x00_\x007\x003\x00b\x009\x00a\x00c\x009\x00e\x00e\x00_\x00m\x00\x017\x00t\x00r\x00u\x00e\x00_\x005\x005\x003\x001\x008\x006\x004\x004\x008\x009\x003\x003\x00@\x00c\x00.\x00u\x00s\x00_\x00D\x005\x006\x007\x00F\x003\x005\x00F\x00C\x000\x00F\x00C\x00C\x00D\x003\x00F\x007\x008\x00C\x00D\x00E\x006\x003\x003\x007\x006\x00F\x008\x00E\x009\x005\x005' @ 1110915 : 0
+2023/05/16-14:03:54.028 da9d Compacting 2@1 + 5@2 files
+2023/05/16-14:03:54.439 da9d Generated table #211@1: 21463 keys, 1750521 bytes
+2023/05/16-14:03:54.439 da9d Compacted 2@1 + 5@2 files => 1750521 bytes
+2023/05/16-14:03:54.442 da9d compacted to: files[ 0 1 3 0 0 0 0 ]
+2023/05/16-14:03:54.443 da9d Delete type=2 #208
+2023/05/16-14:03:54.443 da9d Delete type=2 #206
+2023/05/16-14:03:54.444 ea32 Manual compaction at level-1 from '\x00\x08\x08(\x01\x1d\x005\x005\x003\x001\x008\x006\x004\x004\x008\x009\x003\x003\x00@\x00c\x00.\x00u\x00s\x00_\x007\x003\x00b\x009\x00a\x00c\x009\x00e\x00e\x00_\x00m\x00\x017\x00t\x00r\x00u\x00e\x00_\x005\x005\x003\x001\x008\x006\x004\x004\x008\x009\x003\x003\x00@\x00c\x00.\x00u\x00s\x00_\x00D\x005\x006\x007\x00F\x003\x005\x00F\x00C\x000\x00F\x00C\x00C\x00D\x003\x00F\x007\x008\x00C\x00D\x00E\x006\x003\x003\x007\x006\x00F\x008\x00E\x009\x005\x005' @ 1110915 : 0 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08.\x02\x01\x16\x00W\x00A\x00W\x00e\x00b\x00B\x00e\x00t\x00a\x00O\x00p\x00t\x00I\x00n\x00D\x00i\x00r\x00t\x00y\x00B\x00i\x00t' @ 1143323 : 0
+2023/05/16-14:03:54.444 ea32 Compacting 1@1 + 2@2 files
+2023/05/16-14:03:54.749 ea32 Generated table #212@1: 31740 keys, 1747801 bytes
+2023/05/16-14:03:54.749 ea32 Compacted 1@1 + 2@2 files => 1747801 bytes
+2023/05/16-14:03:54.751 ea32 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/05/16-14:03:54.752 ea32 Delete type=2 #210
+2023/05/16-14:03:54.752 ea32 Delete type=2 #211
+2023/05/16-14:03:54.754 da9d Manual compaction at level-1 from '\x00\x08.\x02\x01\x16\x00W\x00A\x00W\x00e\x00b\x00B\x00e\x00t\x00a\x00O\x00p\x00t\x00I\x00n\x00D\x00i\x00r\x00t\x00y\x00B\x00i\x00t' @ 1143323 : 0 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:54.759 da9d Level-0 table #214: started
+2023/05/16-14:03:54.762 da9d Level-0 table #214: 557 bytes OK
+2023/05/16-14:03:54.765 da9d Delete type=2 #201
+2023/05/16-14:03:54.765 da9d Delete type=0 #209
+2023/05/16-14:03:54.765 da9d Delete type=2 #200
+2023/05/16-14:03:54.765 da9d Delete type=2 #202
+2023/05/16-14:03:54.765 da9d Delete type=2 #203
+2023/05/16-14:03:54.765 da9d Delete type=2 #198
+2023/05/16-14:03:54.765 da9d Delete type=2 #199
+2023/05/16-14:03:54.778 ea32 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:54.778 ea33 Manual compaction at level-1 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\xc8\x0a\x00j\x00o\x00b\x00s\x00-\x00s\x00t\x00o\x00r\x00e' @ 1143358 : 0
+2023/05/16-14:03:54.778 ea33 Compacting 1@1 + 1@2 files
+2023/05/16-14:03:54.959 ea33 Generated table #215@1: 31705 keys, 1747120 bytes
+2023/05/16-14:03:54.959 ea33 Compacted 1@1 + 1@2 files => 1747120 bytes
+2023/05/16-14:03:54.961 ea33 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/05/16-14:03:54.962 ea33 Delete type=2 #214
+2023/05/16-14:03:54.962 da9d Manual compaction at level-1 from '\x00\x0a\x00\x00\xc8\x0a\x00j\x00o\x00b\x00s\x00-\x00s\x00t\x00o\x00r\x00e' @ 1143358 : 0 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:54.963 ea32 Level-0 table #217: started
+2023/05/16-14:03:54.966 ea32 Level-0 table #217: 614 bytes OK
+2023/05/16-14:03:54.969 ea32 Delete type=2 #212
+2023/05/16-14:03:54.969 ea32 Delete type=0 #213
+2023/05/16-14:03:54.971 da9d Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:54.971 da9d Manual compaction at level-1 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1143394 : 0
+2023/05/16-14:03:54.971 da9d Compacting 1@1 + 1@2 files
+2023/05/16-14:03:55.155 da9d Generated table #218@1: 31669 keys, 1746602 bytes
+2023/05/16-14:03:55.155 da9d Compacted 1@1 + 1@2 files => 1746602 bytes
+2023/05/16-14:03:55.157 da9d compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/05/16-14:03:55.158 da9d Delete type=2 #217
+2023/05/16-14:03:55.158 ea32 Manual compaction at level-1 from '\x00\x09\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1143394 : 0 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:55.671 da9d Level-0 table #220: started
+2023/05/16-14:03:55.836 da9d Level-0 table #220: 998383 bytes OK
+2023/05/16-14:03:55.839 da9d Delete type=0 #216
+2023/05/16-14:03:55.839 da9d Delete type=2 #215
+2023/05/16-14:03:56.036 da9d Level-0 table #222: started
+2023/05/16-14:03:56.184 da9d Level-0 table #222: 744682 bytes OK
+2023/05/16-14:03:56.189 da9d Delete type=0 #219
+2023/05/16-14:03:56.190 da9d Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:56.191 da9d Manual compaction at level-1 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x06!\x06\x09\xff\xfb]\xb0I\xe2a\x0a\xe2\x00\x03\x00\x00\x00\x00\x00<\x94@' @ 1274487 : 0
+2023/05/16-14:03:56.191 da9d Compacting 2@1 + 2@2 files
+2023/05/16-14:03:56.503 da9d Generated table #223@1: 563 keys, 58312 bytes
+2023/05/16-14:03:56.503 da9d Compacted 2@1 + 2@2 files => 58312 bytes
+2023/05/16-14:03:56.505 da9d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/16-14:03:56.506 da9d Delete type=2 #220
+2023/05/16-14:03:56.506 da9d Delete type=2 #222
+2023/05/16-14:03:56.507 ea32 Manual compaction at level-1 from '\x00\x0b\x06!\x06\x09\xff\xfb]\xb0I\xe2a\x0a\xe2\x00\x03\x00\x00\x00\x00\x00<\x94@' @ 1274487 : 0 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:56.512 ea32 Level-0 table #225: started
+2023/05/16-14:03:56.520 ea32 Level-0 table #225: 913 bytes OK
+2023/05/16-14:03:56.524 ea32 Delete type=0 #221
+2023/05/16-14:03:56.524 ea32 Delete type=2 #204
+2023/05/16-14:03:56.524 ea32 Delete type=2 #218
+2023/05/16-14:03:56.526 da9d Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/16-14:03:56.526 ea32 Manual compaction at level-1 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 1274575 : 0
+2023/05/16-14:03:56.526 ea32 Compacting 1@1 + 1@2 files
+2023/05/16-14:03:56.538 ea32 Generated table #226@1: 475 keys, 56451 bytes
+2023/05/16-14:03:56.539 ea32 Compacted 1@1 + 1@2 files => 56451 bytes
+2023/05/16-14:03:56.551 ea32 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/16-14:03:56.563 ea32 Delete type=2 #225
+2023/05/16-14:03:56.565 da9d Manual compaction at level-1 from '\x00\x0e\x00\x00\x05' @ 1274575 : 0 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
